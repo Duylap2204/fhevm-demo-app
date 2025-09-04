@@ -1,2 +1,3 @@
-# fhevm-demo-app
-Demo dApp built on FHEVM showcasing privacy-preserving smart contracts.
+## Frontend
+
+The `frontend/` folder contains a simple HTML + JS app that will serve as a placeholder to connect with the FHEVM SecretStore contract.
